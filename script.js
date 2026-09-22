@@ -9,3 +9,6 @@ nav?.querySelectorAll('a').forEach(link => link.addEventListener('click', () => 
   menuButton?.setAttribute('aria-expanded', 'false');
 }));
 document.querySelector('#year').textContent = new Date().getFullYear();
+document.querySelectorAll('[data-language]').forEach(link => link.addEventListener('click', () => {
+  localStorage.setItem('absasia-language-choice', link.dataset.language);
+}));

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://absasia.co.th/sitemap.xml
