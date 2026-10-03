@@ -24,4 +24,52 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://absasia.co.th/en/boi" />
     <changefreq>monthly</changefreq><priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://absasia.co.th/boi/application-process</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://absasia.co.th/boi/application-process" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://absasia.co.th/en/boi/application-process" />
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://absasia.co.th/en/boi/application-process</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://absasia.co.th/boi/application-process" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://absasia.co.th/en/boi/application-process" />
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://absasia.co.th/boi/tax-incentives</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://absasia.co.th/boi/tax-incentives" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://absasia.co.th/en/boi/tax-incentives" />
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://absasia.co.th/en/boi/tax-incentives</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://absasia.co.th/boi/tax-incentives" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://absasia.co.th/en/boi/tax-incentives" />
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://absasia.co.th/boi/import-duty-raw-materials</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://absasia.co.th/boi/import-duty-raw-materials" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://absasia.co.th/en/boi/import-duty-raw-materials" />
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://absasia.co.th/en/boi/import-duty-raw-materials</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://absasia.co.th/boi/import-duty-raw-materials" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://absasia.co.th/en/boi/import-duty-raw-materials" />
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://absasia.co.th/boi/investment-incentives</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://absasia.co.th/boi/investment-incentives" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://absasia.co.th/en/boi/investment-incentives" />
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://absasia.co.th/en/boi/investment-incentives</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://absasia.co.th/boi/investment-incentives" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://absasia.co.th/en/boi/investment-incentives" />
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
 </urlset>
